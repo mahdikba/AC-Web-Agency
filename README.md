@@ -20,7 +20,7 @@ Pour débuter le projet, merci de vous référer aux user stories correspondante
 - Le projet doit s'executer dans un sqlite, celui-ci doit être fourni à la racine du projet
 - Le buid de production doit être réalisé via le répertoire "dist"
 
-(Une attention particulière sera consacré aux bonnes pratiques mise en place)
+(Une attention particulière sera consacrée aux bonnes pratiques mise en place)
 
 ### Explications diverses
 
@@ -30,4 +30,4 @@ Pour débuter le projet, merci de vous référer aux user stories correspondante
 ## Fin du test
 
 - Pushez votre branche sur GitHub
-- envoyez un mail à l'addresse : "contact@acwebagency.fr" avec le lien de votre dépôt
+- Envoyez un mail à l'addresse : "contact@acwebagency.fr" avec le lien de votre dépôt
