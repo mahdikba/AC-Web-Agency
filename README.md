@@ -8,8 +8,7 @@ MAJ : 30/09/2021
 Pour démarrer le test technique :
 
 - Créez votre propre compte GitHub
-- Clonez ce repository en local
-- Créez votre branche ayant le préfix "recrutement/" et le suffix "nom-prenom" 
+- Clonez ce repository en local sur votre GitHub
 
 ## Test technique (maximum 4h)
 
@@ -31,4 +30,4 @@ Pour débuter le projet, merci de vous référer aux user stories correspondante
 ## Fin du test
 
 - Pushez votre branche sur GitHub
-- Créez une pull request dans la branche "develop"
+- envoyez un mail à l'addresse : "contact@acwebagency.fr" avec le lien de votre dépôt
