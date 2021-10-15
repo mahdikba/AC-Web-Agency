@@ -10,7 +10,7 @@ Pour démarrer le test technique :
 - Créez votre propre compte GitHub
 - Clonez ce repository en local sur votre GitHub
 
-## Test technique (maximum 4h)
+## Test technique (maximum 2h00)
 
 Pour débuter le projet, merci de vous référer aux user stories correspondantes via le board associé
 
